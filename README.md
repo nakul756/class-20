@@ -1,2 +1,2 @@
-# class-20
-this is a collision algorithm
+# p5.play-boilerplate
+Boiler plate for p5.play
